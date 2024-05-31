@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+<head>
+<link rel="icon" href="https://ituber.co.kr/image/favicon_ituber.png">
+</head>
